@@ -14,4 +14,4 @@ The main purpose of this project was to learn the fundamentals of Flutter applic
 This project is a simple dice-based game where players roll dice and follow specific rules to either win or lose the game. Learning Resource: Lead Academy
 
 
-[View Live Demo](YOUR_VERCEL_LINK_HERE)
+🎲[View Live Demo](https://mega-roll.vercel.app/)
